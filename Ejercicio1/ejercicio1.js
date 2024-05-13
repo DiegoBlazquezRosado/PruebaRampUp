@@ -10,4 +10,4 @@ for (let i = 0; i < frase.length; i++) {
     }
 };
 
-console.log("Se repite " + contador + " veces.");
+console.log("La letra " + letra + "se repite " + contador + " veces.");
